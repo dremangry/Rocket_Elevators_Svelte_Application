@@ -4,7 +4,7 @@
         <li>
             <a class="navbar-brand" href="/">
                 <div class="logo-image">
-                    <img src="src/img/logo_Rocket.png" class="img-fluid">
+                    <img src="https://i.postimg.cc/Y0K7Rm3p/logo-Rocket.png" class="img-fluid">
                 </div>
             </a>
         </li>

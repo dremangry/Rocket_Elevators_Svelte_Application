@@ -24,16 +24,16 @@
 
     <section id="gallery" class="gallery">
         <div>
-            <img src="src/img/1.png" width="200px" alt="">
+            <img src="https://i.postimg.cc/3rVYrz5s/1.png" width="200px" alt="">
         </div>
         <div>
-            <img src="src/img/3.png" width="200px" alt="">
+            <img src="https://i.postimg.cc/RFb9HD3n/10.png" width="200px" alt="">
         </div>
         <div>
-            <img src="src/img/7.png" width="200px" alt="">
+            <img src="https://i.postimg.cc/gjCWMLHz/7.png" width="200px" alt="">
         </div>
         <div>
-            <img src="src/img/10.png" width="200px" alt="">
+            <img src="https://i.postimg.cc/rs0TCNWZ/3.png" width="200px" alt="">
         </div>
 
     </section>
